@@ -79,9 +79,15 @@ Además, ensamblador (Principios de Computadores) y SQL.
 | **Informática Básica** · C++ | [ib-jutge](https://github.com/guillrl1/ib-jutge) · [ib-practicas](https://github.com/guillrl1/ib-practicas) |
 | **Principios de Computadores** · Ensamblador | [pc-practicas](https://github.com/guillrl1/pc-practicas) |
 | **Algoritmos y Estructuras de Datos** · C++ | [ayed-practicas](https://github.com/guillrl1/ayed-practicas) |
+| **Algoritmos y Estructuras de Datos Avanzadas** · C++ | [ayeda-practicas](https://github.com/guillrl1/ayeda-practicas) · [advent-of-code-2024](https://github.com/guillrl1/advent-of-code-2024) |
+| **Computabilidad y Algoritmia** · C++ | [cya-practicas](https://github.com/guillrl1/cya-practicas) |
+| **Estructura de Computadores** · Verilog | [ec-verilog-practicas](https://github.com/guillrl1/ec-verilog-practicas) |
+| **Sistemas Operativos** · C++ | [so-docserver](https://github.com/guillrl1/so-docserver) |
+| **Inteligencia Artificial** · C++ | [ia-practicas](https://github.com/guillrl1/ia-practicas) |
+| **Procesadores de Lenguajes** · JavaScript | [pl-dragon2js](https://github.com/guillrl1/pl-dragon2js) |
 | **Administración y Diseño de Bases de Datos** · PostgreSQL | [adbd-p1-conceptos-postgresql](https://github.com/guillrl1/adbd-p1-conceptos-postgresql) · [adbd-p3-modelo-entidad-relacion](https://github.com/guillrl1/adbd-p3-modelo-entidad-relacion) · [adbd-p4-modelo-relacional](https://github.com/guillrl1/adbd-p4-modelo-relacional) |
-| **Diseño y Análisis de Algoritmos** · C++ | [daa-practicas](https://github.com/guillrl1/daa-practicas) · [daa-p5](https://github.com/guillrl1/daa-p5) |
-| **Complejidad Computacional** · C++ | [cc-simulador-automata-pila](https://github.com/guillrl1/cc-simulador-automata-pila) |
+| **Diseño y Análisis de Algoritmos** · C++ | [daa-practicas](https://github.com/guillrl1/daa-practicas) · [daa-p5](https://github.com/guillrl1/daa-p5) · [daa-p6](https://github.com/guillrl1/daa-p6) |
+| **Complejidad Computacional** · C++ | [cc-simulador-automata-pila](https://github.com/guillrl1/cc-simulador-automata-pila) · [cc-maquina-turing](https://github.com/guillrl1/cc-maquina-turing) · [cc-funcion-recursiva](https://github.com/guillrl1/cc-funcion-recursiva) |
 | **Inteligencia Artificial Avanzada** · C++ | [iaa-practicas](https://github.com/guillrl1/iaa-practicas) |
 | **Interfaces Inteligentes** · Unity, C#, VR | [ii-p01-introduccion-csharp](https://github.com/guillrl1/ii-p01-introduccion-csharp) · [ii-p03-fisicas-3d](https://github.com/guillrl1/ii-p03-fisicas-3d) · [ii-p04-delegados-eventos](https://github.com/guillrl1/ii-p04-delegados-eventos) · [ii-xr-interaction-toolkit](https://github.com/guillrl1/ii-xr-interaction-toolkit) · [ii-google-cardboard](https://github.com/guillrl1/ii-google-cardboard) |
 | **Programación de Aplicaciones Interactivas** · JavaScript | [pai-practicas](https://github.com/guillrl1/pai-practicas) |
