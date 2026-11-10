@@ -21,10 +21,14 @@ Estudio el **Grado en Ingeniería Informática** en la **Universidad de La Lagun
 ## Tecnologías
 
 <p>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,cs,unity,js,nodejs,postgres,git,github&theme=dark">
-<img alt="C++, C#, Unity, JavaScript, Node.js, PostgreSQL, Git y GitHub" src="https://skillicons.dev/icons?i=cpp,cs,unity,js,nodejs,postgres,git,github&theme=light">
-</picture>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 Además, ensamblador (Principios de Computadores) y SQL.
